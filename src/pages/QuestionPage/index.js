@@ -4,7 +4,7 @@ import getElapsedTime from '../../utils/getElapsedTime';
 import QuestionPageContainer from './style';
 
 const API_BASE_URL = 'https://openmind-api.vercel.app/3-5';
-
+// git PR 잘 되는지 확인
 // TODO 임시 ID. useParams로 동적인 경로 만들어주기.
 const USER_ID = 2805;
 
